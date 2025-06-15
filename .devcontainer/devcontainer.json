@@ -1,0 +1,6 @@
+{
+"image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+"features": {
+	"ghcr.io/devcontainers-extra/features/apt-packages:1": {}
+}
+}
